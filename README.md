@@ -1,4 +1,7 @@
 # retrieve_ubuntu_apps
 How to retrieve ubuntu apps on elementary os 6
-just download retrieve_ubuntu_apps.sh and run it:
+
+- download the bash file : 'retrieve_ubuntu_apps.sh' 
+- run it (every time appcenter is updated) with
+
 sudo bash ./retrieve_ubuntu_apps.sh
